@@ -1,4 +1,8 @@
-# Visualizations
+---
+layout: page
+title: Visualizations
+subtitle: New tool to extract more from your data and a new way for visual storytelling
+---
 
 # Interactive visualizations using Tableau
 
