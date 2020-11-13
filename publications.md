@@ -1,4 +1,12 @@
-# Publications
+---
+layout: post
+title: Publications
+subtitle: 
+cover-img: /assets/img/tablu.png
+thumbnail-img: https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png
+share-img: /assets/img/tablu.png
+tags: []
+---
 
 
 <b>Talla, V</b>., Suh, A., Kalsoom, F., Dincă, V., Vila, R., Friberg, M., Wiklund, C. and Backström, N., 2017. Rapid increase in genome size as a consequence of transposable element hyperactivity in wood-white (Leptidea) butterflies. *Genome Biology and Evolution*, 9(10), pp.2491-2505. 
