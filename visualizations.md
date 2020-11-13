@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visualizations
-subtitle: New tool to extract more from your data and a new way for visual storytelling
+subtitle: Visualizations to extract maximum from your data
 ---
 
 # Interactive visualizations using Tableau
