@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visualizations
-subtitle: Visualizations to extract maximum from your data
+subtitle: Visualizations to extract maximum from your data.
 ---
 
 # Interactive visualizations using Tableau
@@ -17,6 +17,10 @@ Here I have obtained the yearly counts of the spring population of monarch butte
 
 
 # Joyplots using python
+
+<img style="float: center;" src="/assets/img/joy.png" >
+
+
 
 # violin plots using python
 
