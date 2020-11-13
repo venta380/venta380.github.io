@@ -23,7 +23,7 @@ Höök, L., Leal, L., <b>Talla, V</b>. and Backström, N., 2019. Multilayered tu
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="84156501"></div></html>
 
 <b>Media coverage for this article:</b> 
- <ul>
+<ul>
   <li> https://news.emory.edu/features/2020/07/esc-butterfly-genomics/index.html </li>
   <li> https://cosmosmagazine.com/nature/animals/american-monarchs-in-mexico/ </li>
   <li> https://www.news18.com/news/buzz/no-genetic-difference-between-eastern-and-western-monarch-butterflies-say-biologists-2745261.html </li>
