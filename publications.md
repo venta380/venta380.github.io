@@ -2,10 +2,10 @@
 layout: post
 title: Publications
 subtitle: 
-cover-img: /assets/img/tablu.png
-thumbnail-img: https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png
-share-img: /assets/img/tablu.png
-tags: []
+cover-img: /assets/img/cover_1.png
+thumbnail-img: /assets/img/monarch_10.png
+share-img: /assets/img/cover_1.png
+tags: [genomics, population genetics, evolutionary genetics, migration, gene flow]
 ---
 
 
