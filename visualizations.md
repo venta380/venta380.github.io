@@ -1,4 +1,4 @@
-# visualizations
+# Visualizations
 
 # Interactive visualizations using Tableau
 
