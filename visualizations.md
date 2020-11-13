@@ -1,3 +1,5 @@
+# visualizations
+
 # Interactive visualizations using Tableau
 
 Although Tableau was commonly used by data scientists at tech firms, scientists in academia rarely uses this tool. The public version of this tool can be downloaded for free from their website. The private version can be obtained for a free trail of 1 year for students. The difference between both the versions is very minor. In the public version you will have to upload your work to a public domain to save it or share it but in the private version you can share without uploading your work to a public domain. 
