@@ -9,7 +9,7 @@ tags: [genomics, population genetics, evolutionary genetics, migration, gene flo
 ---
 
 
-| <b>Talla, V</b>., Suh, A., Kalsoom, F., Dincă, V., Vila, R., Friberg, M., Wiklund, C. and Backström, N., 2017. Rapid increase in genome size as a consequence of transposable element hyperactivity in wood-white (Leptidea) butterflies. *Genome Biology and Evolution*, 9(10), pp.2491-2505. | <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="24237358"></div><html> |
+| <b>Talla, V</b>., Suh, A., Kalsoom, F., Dincă, V., Vila, R., Friberg, M., Wiklund, C. and Backström, N., 2017. Rapid increase in genome size as a consequence of transposable element hyperactivity in wood-white (Leptidea) butterflies. *Genome Biology and Evolution*, 9(10), pp.2491-2505. | <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="24237358"></div> |
 
 <b>Talla, V</b>., Kalsoom, F., Shipilina, D., Marova, I. and Backström, N., 2017. Heterogeneous patterns of genetic diversity and differentiation in European and Siberian Chiffchaff (Phylloscopus collybita abietinus/P. tristis). *G3: Genes, Genomes, Genetics*, 7(12), pp.3983-3998. 
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="27780870"></div></html>
