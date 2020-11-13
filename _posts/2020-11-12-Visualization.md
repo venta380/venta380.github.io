@@ -8,7 +8,7 @@ share-img: /assets/img/tablu.png
 tags: [Data, tableau, Monarch, butterfly, ]
 ---
 <style>
-table {
+ {
     width:100%;
 }
 </style>
