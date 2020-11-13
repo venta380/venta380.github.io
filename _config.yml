@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Population genetics package: "https://beautifuljekyll.com"
     - Published data: "https://www.markdowntutorial.com/"
-  Publications: "https://deanattali.com"
+  Publications: "publications"
   Visualisations: "https://deanattali.com"
 
 # --- Logo --- #
