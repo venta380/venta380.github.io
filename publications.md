@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: Publications
 subtitle: 
 cover-img: /assets/img/cover_1.png
