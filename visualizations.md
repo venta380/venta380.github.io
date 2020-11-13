@@ -22,7 +22,9 @@ Here I have obtained the yearly counts of the spring population of monarch butte
 
 
 
-# violin plots using python
+# Violin plots using python
+<img style="float: center;" src="https://www.g3journal.org/content/ggg/7/12/3983/F4.medium.gif" >
+Ref: https://doi.org/10.1534/g3.117.300152
 
 # Genome scans
 
