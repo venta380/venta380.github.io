@@ -1,4 +1,4 @@
-# About me:
+# About me
 I am currently a post doctoral researcher at Emory University, Atlanta, USA. Here i am studying the levels of genome wide genetic differentiation between Eastern and Western Monarch butterfly populations. It was believed that a small populations of Monarchs are non-migratory in South Florida, Texas and Georgia. I am trying to find out the genetic basis of migration in Monarchs.
 
 <img style="float: right;" src="/assets/img/venkat.png" width="200">
