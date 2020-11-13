@@ -21,7 +21,7 @@ Höök, L., Leal, L., <b>Talla, V</b>. and Backström, N., 2019. Multilayered tu
 <b>Talla, V</b>., Soler, L., Kawakami, T., Dincă, V., Vila, R., Friberg, M., Wiklund, C. and Backström, N., 2019. Dissecting the effects of selection and mutation on genetic diversity in three wood white (Leptidea) butterfly species. Genome biology and evolution, 11(10), pp.2875-2886.
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="67628021"></div></html>
 
-Talla, V., Pierce, A.A., Adams, K.L., de Man, T.J., Nallu, S., Villablanca, F.X., Kronforst, M.R. and de Roode, J.C., 2020. Genomic evidence for gene flow between monarchs with divergent migratory phenotypes and flight performance. *Molecular Ecology*, 29(14), pp.2567-2582.
+<b>Talla, V</b>., Pierce, A.A., Adams, K.L., de Man, T.J., Nallu, S., Villablanca, F.X., Kronforst, M.R. and de Roode, J.C., 2020. Genomic evidence for gene flow between monarchs with divergent migratory phenotypes and flight performance. *Molecular Ecology*, 29(14), pp.2567-2582.
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="84156501"></div></html>
 
 
