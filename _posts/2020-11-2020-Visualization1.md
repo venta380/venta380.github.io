@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+title: Visualization of data using Tableau
+subtitle: A new interactive tool for visual storytelling
+cover-img: /assets/img/Screen Shot 2020-11-12 at 10.15.39 PM.png
+thumbnail-img: /assets/img/Screen Shot 2020-11-12 at 10.15.39 PM.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
