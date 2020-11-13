@@ -21,6 +21,7 @@ Höök, L., Leal, L., <b>Talla, V</b>. and Backström, N., 2019. Multilayered tu
 
 <b>Talla, V</b>., Pierce, A.A., Adams, K.L., de Man, T.J., Nallu, S., Villablanca, F.X., Kronforst, M.R. and de Roode, J.C., 2020. Genomic evidence for gene flow between monarchs with divergent migratory phenotypes and flight performance. *Molecular Ecology*, 29(14), pp.2567-2582. 
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="84156501"></div></html>
+
 ## Media coverage for this article: 
  - https://news.emory.edu/features/2020/07/esc-butterfly-genomics/index.html
  - https://cosmosmagazine.com/nature/animals/american-monarchs-in-mexico/
