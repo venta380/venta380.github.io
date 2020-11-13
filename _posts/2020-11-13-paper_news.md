@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New paper accepted!
-subtitle: Our study lead by Niclas Backström is now accepted in molecular ecology. 
+subtitle: Our study led by Niclas Backström is now accepted in molecular ecology. 
 cover-img: /assets/img/wood_white2.png
 thumbnail-img: /assets/img/wood_white.png
 share-img: /assets/img/wood_white.png
