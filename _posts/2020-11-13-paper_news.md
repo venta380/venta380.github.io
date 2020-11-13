@@ -5,6 +5,7 @@ subtitle: Our study lead by Niclas Backström is now accepted in molecular ecolo
 cover-img: /assets/img/wood_white2.png
 thumbnail-img: /assets/img/wood_white.png
 share-img: /assets/img/wood_white.png
+comments: true
 tags: [RNA, microbiome, diet, wood_white, butterfly, ]
 ---
 
