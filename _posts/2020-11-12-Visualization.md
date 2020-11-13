@@ -7,11 +7,7 @@ thumbnail-img: https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0
 share-img: /assets/img/tablu.png
 tags: [Data, tableau, Monarch, butterfly, ]
 ---
-<style>
- {
-    width:100%;
-}
-</style>
+
 
 Here is a new tool for visual story telling
 
