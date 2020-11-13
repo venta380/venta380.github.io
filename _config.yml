@@ -19,7 +19,7 @@ navbar-links:
     - Population genetics package: "https://beautifuljekyll.com"
     - Published data: "https://www.markdowntutorial.com/"
   Publications: "publications"
-  Visualisations: "https://sites.google.com/view/venkattalla/visualizations"
+  Visualisations: "visualizations"
 
 # --- Logo --- #
 
