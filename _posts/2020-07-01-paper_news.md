@@ -5,6 +5,7 @@ subtitle: Genomic evidence for gene flow between monarchs with divergent migrato
 cover-img: /assets/img/mexico_monarchs.png
 thumbnail-img: /assets/img/monarch.png
 share-img: /assets/img/mexico_monarchs.png
+comments: true
 tags: [conservation biology, gene flow, genomics, migration, monarch butterfly, population genetics, butterfly, ]
 ---
 
