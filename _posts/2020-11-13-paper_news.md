@@ -11,3 +11,4 @@ comments: true
 
 Our paper titled "Host plant diet affects growth and induces altered gene expression and microbiome composition in the wood white (<i>Leptidea sinapis</i>) butterfly." has been accepted in molecular ecology. 
 
+# [Click here for the article](https://doi.org/10.1111/mec.15745)
