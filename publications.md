@@ -15,8 +15,8 @@ tags: [genomics, population genetics, evolutionary genetics, migration, gene flo
 <b>Talla, V</b>., Kalsoom, F., Shipilina, D., Marova, I. and Backström, N., 2017. Heterogeneous patterns of genetic diversity and differentiation in European and Siberian Chiffchaff (*Phylloscopus collybita abietinus/P. tristis*). *G3: Genes, Genomes, Genetics*, 7(12), pp.3983-3998. 
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="27780870"></div></html>
 
-Leal, L., <b>Talla, V</b>.<sup>*</sup>, Källman, T., Friberg, M., Wiklund, C., Dincă, V., Vila, R. and Backström, N., 2018. Gene expression profiling across ontogenetic stages in the wood white (Leptidea sinapis) reveals pathways linked to butterfly diapause regulation. Molecular ecology, 27(4), pp.935-948.
-* authors contributed equally to this study. 
+Leal, L.<sup>*</sup>, <b>Talla, V</b>.<sup>*</sup>, Källman, T., Friberg, M., Wiklund, C., Dincă, V., Vila, R. and Backström, N., 2018. Gene expression profiling across ontogenetic stages in the wood white (Leptidea sinapis) reveals pathways linked to butterfly diapause regulation. Molecular ecology, 27(4), pp.935-948.
+<li>* authors contributed equally to this study. </li>
 <html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="32779622"></div></html>
 
 <b>Talla, V</b>., Johansson, A., Dincă, V., Vila, R., Friberg, M., Wiklund, C. and Backström, N., 2019. Lack of gene flow: narrow and dispersed differentiation islands in a triplet of Leptidea butterfly species. Molecular ecology, 28(16), pp.3756-3770. 
