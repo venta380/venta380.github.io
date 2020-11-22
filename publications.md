@@ -39,4 +39,4 @@ Höök, L., Leal, L., <b>Talla, V</b>. and Backström, N., 2019. Multilayered tu
 </ul>
 
 Näsvall, K., Wiklund, C., Mrazek, V., Künstner, A., <b>Talla, V</b>., Busch, H., Vila, R. and Backström, N. (2020), Host plant diet affects growth and induces altered gene expression and microbiome composition in the wood white (*Leptidea sinapis*) butterfly. *Molecular Ecology*. Accepted Author Manuscript.
-
+<html><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="94693150"></div></html>
