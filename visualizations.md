@@ -15,7 +15,7 @@ subtitle: Visualizations to extract maximum from your data.
 
 
 # Violin plots using python
-<img style="float: center;" src="https://www.g3journal.org/content/ggg/7/12/3983/F4.medium.gif">
+<img style="float: center;" src="https://academic.oup.com/view-large/figure/235904481/3983f4.gif">
 
 Ref: https://doi.org/10.1534/g3.117.300152
 
