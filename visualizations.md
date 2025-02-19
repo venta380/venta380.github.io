@@ -10,8 +10,6 @@ subtitle: Visualizations to extract maximum from your data.
 <img style="float: center;" src="/assets/img/newplot_CNV.png">
 [Click here to use the interactive plot](https://venta380.github.io/2024-11-12-Visualization/)
 
-[![Watch the video](https://raw.githubusercontent.com/venta380/coursera_test/main/newplot_CNV.png)](https://raw.githubusercontent.com/venta380/coursera_test/main/Basic_CNV_tool.mov)
-
 # Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species
 <img style="float: center;" src="/assets/img/evx163f1.jpeg">
 
