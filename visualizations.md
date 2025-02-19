@@ -21,6 +21,7 @@ Ref: https://doi.org/10.1534/g3.117.300152
 
 # Genome scans
 <img style="float: center;" src="/assets/img/scan.png">
+<img style="float: center;" src="/assets/img/lep_scan.png">
 
 # Circos plot
 <img style="float: center;" src="/assets/img/circros.png">
