@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizations
+title: Data Visualizations
 subtitle: Visualizations to extract maximum from your data.
 ---
 
