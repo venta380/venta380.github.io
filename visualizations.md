@@ -13,6 +13,8 @@ the bellow sample is normal
 <img style="float: center;" src="/assets/img/newplot_Normal.png">
 [Click here to use the interactive plot](https://venta380.github.io/2024-11-12-Visualization/)
 
+---
+
 # Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species
 <img style="float: center;" src="/assets/img/evx163f1.jpeg">
 
