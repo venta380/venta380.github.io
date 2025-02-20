@@ -17,11 +17,8 @@ An AI chat bot was intigrated in to the tool to check its potential to reduce th
 
 ### Stack used:
 **Back-end**: Python
-
 **Front-end**: Streamlit
-
 **Data analysis**: pandas
-
 **Graphs and interative interface**: Plotly
 
 **Ai integration**: Pandas ai and olama
