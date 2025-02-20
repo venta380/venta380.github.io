@@ -14,16 +14,28 @@ the bellow sample is normal
 [**Click here to use the interactive plot**](https://venta380.github.io/2024-11-12-Visualization/)
 
 An AI chat bot was intigrated in to the tool to check its potential to reduce the tech support cases. 
-<img style="float: center;" src="/assets/img/Gen_AI.gif">
 
 ### Stack used:
 **Back-end**: Python
+
 **Front-end**: Streamlit
+
 **Data analysis**: pandas
+
 **Graphs and interative interface**: Plotly
+
 **Ai integration**: Pandas ai and olama
 
 ---
+### The interactive plot section of the CNV detection tool was latter inserted into the companies internal software portal.
+<img style="float: center;" src="/assets/img/Devyser_DAP_CNV.png">
+
+### Stack used:
+**Back-end**: C#
+**Front-end**: Html and Javascript (Plotly.js)
+**Database**: CouchDB
+---
+
 
 # Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species
 <img style="float: center;" src="/assets/img/evx163f1.jpeg">
