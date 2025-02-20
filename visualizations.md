@@ -35,7 +35,8 @@ An AI chat bot was intigrated in to the tool to check its potential to reduce th
 ---
 
 
-# Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species
+# Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species.
+The is done during my PhD at Uppsala University for my first publication. We analysed the genome size changes in 15 butterfly species and mapped it on to the phylogenetic tree to show the per year increase in the genome size. The article can be found [**here**](https://doi.org/10.1093/gbe/evx163).
 <img style="float: center;" src="/assets/img/evx163f1.jpeg">
 
 # Joyplots using python
