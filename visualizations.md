@@ -13,7 +13,9 @@ the bellow sample is normal
 <img style="float: center;" src="/assets/img/newplot_Normal.png">
 [**Click here to use the interactive plot**](https://venta380.github.io/2024-11-12-Visualization/)
 
-An AI chat bot was intigrated in to the tool to 
+An AI chat bot was intigrated in to the tool to check its potential to reduce the tech support cases. 
+<img style="float: center;" src="/assets/img/Gen_AI.gif">
+
 ### Stack used:
 **Back-end**: Python
 **Front-end**: Streamlit
