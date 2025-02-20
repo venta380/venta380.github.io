@@ -43,7 +43,6 @@ The is done during my PhD at Uppsala University for my first publication. We ana
 The analysis and the ploting was done using R
 
 ---
-
 # Joyplots using python
 This is an infographic of the year wise numbers of Monarch of monarch butterflies collected in June and July. These two months were considered the peak seasons for monarch butterflies. This was done using the NABA (North American Butterfly Association) data. 
 <img style="float: center;" src="/assets/img/joy.png">
@@ -53,12 +52,15 @@ This is an infographic of the year wise numbers of Monarch of monarch butterflie
 **Graphs**: seaborn
 
 ---
-
-
 # Violin plots using python
 <img style="float: center;" src="/assets/img/m_3983f4.gif">
 
-Ref: https://doi.org/10.1534/g3.117.300152
+[**Click here to view the publication**](https://doi.org/10.1534/g3.117.300152)
+ 
+<img style="float: center;" src="/assets/img/Violin_2.png">
+
+[**Click here to view the publication**](https://doi.org/10.1111/mec.15188)
+
 
 # Genome scans
 <img style="float: center;" src="/assets/img/scan.png">
