@@ -19,7 +19,7 @@ __Back-end__: Python
 __Front-end__: Streamlit
 __Data analysis__: pandas
 __Graphs and interative interface__: Plotly
-__Ai intigration__: Pandas ai
+__Ai integration__: Pandas ai and olama
 
 ---
 
