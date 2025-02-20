@@ -15,11 +15,11 @@ the bellow sample is normal
 
 An AI chat bot was intigrated in to the tool to 
 ### Stack used:
-__Back-end__: Python
-__Front-end__: Streamlit
-__Data analysis__: pandas
-__Graphs and interative interface__: Plotly
-__Ai integration__: Pandas ai and olama
+**Back-end**: Python
+**Front-end**: Streamlit
+**Data analysis**: pandas
+**Graphs and interative interface**: Plotly
+**Ai integration**: Pandas ai and olama
 
 ---
 
