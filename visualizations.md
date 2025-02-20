@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Visualizations
-subtitle: Visualizations to extract maximum from your data.
+subtitle: Visualizations made for my Work, research and for fun.
 ---
 
 
