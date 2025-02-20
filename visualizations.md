@@ -13,11 +13,13 @@ the bellow sample is normal
 <img style="float: center;" src="/assets/img/newplot_Normal.png">
 [**Click here to use the interactive plot**](https://venta380.github.io/2024-11-12-Visualization/)
 
+An AI chat bot was intigrated in to the tool to 
 ### Stack used:
 __Back-end__: Python
 __Front-end__: Streamlit
 __Data analysis__: pandas
 __Graphs and interative interface__: Plotly
+__Ai intigration__: Pandas ai
 
 ---
 
