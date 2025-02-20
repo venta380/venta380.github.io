@@ -34,6 +34,7 @@ An AI chat bot was intigrated in to the tool to check its potential to reduce th
 **Back-end**: C#
 **Front-end**: Html and Javascript (Plotly.js)
 **Database**: CouchDB
+
 ---
 
 
