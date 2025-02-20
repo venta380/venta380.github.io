@@ -34,7 +34,21 @@ An AI chat bot was intigrated in to the tool to check its potential to reduce th
 **Database**: CouchDB
 
 ---
+### 2024 Andhra Pradesh Legislative Assembly election analysis.
+This was done purely for fun and curiosity. I tried to predict the election results in Andhra pradesh India during the 2024 elections using the poll data and the previous election data and totally failed in predicting the results. Here are some of the graphs. 
 
+Result for 2014 election
+<img style="float: center;" src="/assets/img/2014.png">
+
+Result for 2019 election with alliances formed during the 2024 election. 
+<img style="float: center;" src="/assets/img/2019.png">
+
+An interactive prediction tool for the 2024 election
+<img style="float: center;" src="/assets/img/2024_expect.png">
+
+And I failed to predict the winner by a long shot. But I learnt a lot.
+
+---
 
 # Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species.
 The is done during my PhD at Uppsala University for my first publication. We analysed the genome size changes in 15 butterfly species and mapped it on to the phylogenetic tree to show the per year increase in the genome size. The article can be found [**here**](https://doi.org/10.1093/gbe/evx163).
