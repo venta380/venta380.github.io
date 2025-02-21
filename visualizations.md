@@ -34,6 +34,41 @@ An AI chat bot was intigrated in to the tool to check its potential to reduce th
 **Database**: CouchDB
 
 ---
+
+# Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species.
+This was done during my PhD at Uppsala University for my first publication. We analysed the genome size changes in 15 butterfly species and mapped it on to the phylogenetic tree to show the per year increase in the genome size. The article can be found [**here**](https://doi.org/10.1093/gbe/evx163).
+<img style="float: center;" src="/assets/img/evx163f1.jpeg">
+
+The analysis and the plotting was done using R
+
+---
+# Joyplots using python
+This is an infographic of the year wise numbers of Monarch butterflies collected in June and July. These two months were considered the peak seasons for monarch butterflies. This was done using the NABA (North American Butterfly Association) data.
+<img style="float: center;" src="/assets/img/joy.png">
+
+### Stack used:
+**Data analysis**: pandas
+**Graphs**: seaborn
+
+---
+# Violin plots using python
+I think violin plots are best to show the clear difference in distribution. I think they work better than box plots for genomic datasets. Because it is theoretically expected that genetic differentiation (Fst) is higher on the Z-chromosome (Sex chromosomes) than in autosomes. A Consistent result was seen in both the below papers.
+
+<img style="float: center;" src="/assets/img/m_3983f4.gif">
+
+[**Click here to view the publication**](https://doi.org/10.1534/g3.117.300152)
+ 
+<img style="float: center;" src="/assets/img/Violin_2.png">
+
+[**Click here to view the publication**](https://doi.org/10.1111/mec.15188)
+
+
+# Genome scans
+<img style="float: center;" src="/assets/img/scan.png">
+<img style="float: center;" src="/assets/img/lep_scan.png">
+
+---
+
 ### 2024 Andhra Pradesh Legislative Assembly election analysis.
 This was done purely for fun and curiosity. I tried to predict the election results in Andhra pradesh India during the 2024 elections using the poll data and the previous election data and totally failed in predicting the results. Here are some of the graphs. 
 
@@ -49,36 +84,6 @@ An interactive prediction tool for the 2024 election
 And I failed to predict the winner by a long shot. But I learnt a lot.
 
 ---
-
-# Phylogenetic relationship and divergence time estimates for 15 Lepidoptera species.
-The is done during my PhD at Uppsala University for my first publication. We analysed the genome size changes in 15 butterfly species and mapped it on to the phylogenetic tree to show the per year increase in the genome size. The article can be found [**here**](https://doi.org/10.1093/gbe/evx163).
-<img style="float: center;" src="/assets/img/evx163f1.jpeg">
-
-The analysis and the ploting was done using R
-
----
-# Joyplots using python
-This is an infographic of the year wise numbers of Monarch of monarch butterflies collected in June and July. These two months were considered the peak seasons for monarch butterflies. This was done using the NABA (North American Butterfly Association) data. 
-<img style="float: center;" src="/assets/img/joy.png">
-
-### Stack used:
-**Data analysis**: pandas
-**Graphs**: seaborn
-
----
-# Violin plots using python
-<img style="float: center;" src="/assets/img/m_3983f4.gif">
-
-[**Click here to view the publication**](https://doi.org/10.1534/g3.117.300152)
- 
-<img style="float: center;" src="/assets/img/Violin_2.png">
-
-[**Click here to view the publication**](https://doi.org/10.1111/mec.15188)
-
-
-# Genome scans
-<img style="float: center;" src="/assets/img/scan.png">
-<img style="float: center;" src="/assets/img/lep_scan.png">
 
 # Circos plot
 <img style="float: center;" src="/assets/img/circros.png">
