@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Visualizations
-subtitle: Visualizations made for my Work, research and for fun.
+subtitle: Visualizations made for my work, research and fun.
 ---
 
 
