@@ -15,9 +15,9 @@ author: Venkat Talla
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Population genetics package: "https://beautifuljekyll.com"
-    - Published data: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Population genetics package: "https://beautifuljekyll.com"
+#    - Published data: "https://www.markdowntutorial.com/"
   Publications: "publications"
   Visualisations: "visualizations"
 
@@ -74,7 +74,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
